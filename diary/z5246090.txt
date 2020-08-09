@@ -1,0 +1,82 @@
+Week1:
+In the lab, we formed a group of 4. We discussed the projects and 
+decided to do "Accommodation booking web portal". We discussed the 
+the technology we're going to use. Also, I joined 
+our project repository on github and jira. 
+
+Week 2: 
+My group and I started working on our project proposal in the meeting, 
+I wrote user stories for both epic 1 and epic 2, and an optional epic 
+which we are not going to implement. Also, I asked my group to fill out 
+information about their free times in which we could meet throughout 
+the term via when2meet, and recorded our meeting times in the proposal. 
+I did the tutorial for jira. We met on Friday to discuss the proposal further. 
+
+Week3:
+My group and I finished what's left of the proposal this week.
+Also, I finished implementing Epic 1 of our project. I learned about 
+amplify authentication system which uses amazon congnito, and 
+implemented the 3 user stories (creating an account,
+loging in, and resetting password) using amplify framework. I pushed 
+the code onto my branch in github, showed the result to my group, and
+pushed my code to the master branch. I attended a group meeting 
+on Friday.
+
+Week4: 
+Since I finished the 3 user stories assigned to me for this sprint
+last week, I spent this week learning about AWS services including
+AWS lambada functions, API Gateway, and DynamoDB so that I can
+implment search and sort next week. Also, I started learning 
+about Algolia which we are going to use for search.
+
+Week5:
+This week I worked mainly on the "search accommodation by area" user story.
+I created 3 APIs. One for streaming the accommodation information
+to an algolia index every time a change occurs in DynamoDB. The second 
+function is to do the actual search on the data based on the city. The third
+function is to calculate the average review for accommodation (this is in 
+preparation for my next user story for sorting). After that, my team decided 
+to do search on suburbs too, so I streamed suburbs to algolia and put it as 
+a searchable attribute along with the city. Also, Thanet made me aware
+that there was a problem that has to do with refreshing and the navbar in 
+our website so I fixed it. I also started working on
+sorting the advertisments. 
+
+Week6: 
+This week I finished sorting the advertisements according to the average
+rating, so the results of search will be sorted. Also, I added the 
+autocomplete feature to the search by area bar for sydney suburbs only.One 
+difficulty I faced was finding a list of cities and suburbs in NSW.
+I will add more cities and suburbs next week.Also, I redesigned the footer
+of our website, fixed sizes of pictures in carousel by cropping, and added
+a toggle button to the navigation bar. I also did some testing to some 
+features and reported bugs to my teammates.  
+
+Week7:
+This week I added most of the suburbs in NSW in the autocomplete, Implemented 
+infinit scroll for search results, added 3 options to sort search results 
+(best match, cheapest, and best rated), added recommendation advertisements
+in home page for one night booking with highest available rating, made some 
+minor changes to advertisement detail page, added an alert to user for 
+when there are not results found for search, and fixed some issues with dates in the
+search bar. I also found some issues with routing, and data generation and reported
+them to my teammates. 
+
+Week8: 
+Since we finished the epics in our project, This week I fixed some small bugs
+like the "no results" alert showing before search results, and added an about
+page for our website. I also wrote a description and justification for the 
+use of algolia in our final report. 
+
+Week9:
+This week I attended a zoom meeting with my group to prepare for the presentation
+next week. I also recorded a backup viedo for my part of the presentation.
+
+Week10:
+This week, I worked on the project report. I mainly worked on the third party 
+functionalities, how to run taxidi locally, and references. 
+
+
+
+
+

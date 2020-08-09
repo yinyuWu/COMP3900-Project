@@ -1,0 +1,146 @@
+# Week 
+- unfortunately I wasn't available in week 1 due to my Google internship. 
+
+# Week 2
+This week I:
+- found a group, and familiarised myself with the accommodation project
+- researched existing accomodation sites, such as AirBnB
+- brainstormed more epics with Zahra
+- finalised epics in our documentation
+- read the JIRA tutorial
+- set daily reminder in Slack for our standups
+- attended friday meeting
+
+Next week:
+- Finalise the propsal along with the rest of the team
+- Complete the "Create an Advertisement user story"
+
+## Week 3:
+This week I:
+- Asked for vigorous feedback on our proposal and made those changes (clarify a database schema, clarify what is in the scope of the project)
+- Learned the technologies we are using for our project:
+	- DynamoDB
+	- AWS Lambda/Gateway
+	- AWS Console
+	- Vue/Vuetify
+- Wrote a python script to create our DB tables
+- Implemented an unstyled interface for advertisement creation
+- attended Friday meeting
+
+Next week I am planning to:
+- Update styles for the Create Advertisement page
+- Modify the backend function for creating an advertisement:
+    - it needs to accept parameters
+    - construct the table row from parameters
+    - figure out a way to import the uuid library
+    - call this API from the frontend
+    - figure out how to use S3 bucket to store the 360 photos and normal photos.
+ 
+Obstacles:
+- Learning the technologies. Other members of my team were familiar with the tech stack and I felt left behind as I had never worked with AWS like this and I had never written vuejs. They were really happy to help me out and give me good tutorials to read.
+
+What wasn't finished:
+- I was behind on my other uni subject, and so didn't get as much done as expected. But this doens't impact how on track we are with the project, we still have another week to complete the sprint which includes the "Create an Advertisement user story"
+
+## Week 4:
+This week I:
+- learned vuejs models/data in more depth
+- learned how to send requests to the AWS API Gateway
+- learned about s3 buckets
+- finished the backend for creating an advertisement:
+    - access json body parameters and stores these details in the db
+    - uploads a photo to s3 bucket
+    - combined the address table with the advertisement table
+    - includes optional fields checking
+- finished the frontend create advertisement page
+    - implemented simple error checking
+    - ability to upload a photo
+    - uses the login information (ie. owner email) when posting data to create advertisement backend
+    - called the backend API from the front end
+Obstacles:
+- initially tried to upload photos from the front-end using the s3 API, but this actually exposed a secret key. So Thanet suggested I try the different approach of creating a lambda function that uploads the photo, and calling that lambda function from the frontend instead. This is more secure.
+What was not finished:
+- everything was completed.
+Next week:
+- confirm that viewing advertisements work. otherwise sync up with teammates to do this
+- write book accommodation frontend and backend and optionally search by date as well. 
+
+## Week 6:
+This week I:
+- viewing advertisements work!
+- learned about vuejs props, events, components
+- fixed bug in encoding/decoding images from s3
+- wrote backend for retrieving bookings by tenant and by owner
+- wrote fromtend for displaying bookings by tenant and by owner
+- cached average review rating for accommodations in the Advertisement DynamoDB table
+- fixing errors with getting the signed in user
+- adding suburb field to advertisements
+- adding dates available field for advertisements
+Obstacles:
+- still trying to learn vuejs, Thanet and King helped a lot with this.
+What was not finished:
+- originally I was going to help out with search, however it seems like Zahra and King have this under control, so I chose a different user story.
+Next week:
+- I will try to choose another use story to do, but this sprint looks almost complete and we still have a week left of this sprint. 
+
+## Week 6:
+This week I:
+- learned about the vuejs lifecycle
+- added 360 image viewing and upload support
+- added rating star graphics for accomodation search result cards
+- automatically send confirmation emails for bookings and cancellations
+Obstacles:
+- the only vue specific 360 image viewer doesn't rerender upon data change as vue components should. So King and I spent a lot of time digging into the vue lifecycle figuring out a way we could still continue to use the component
+What was not finished:
+- everything was finished.
+Next week:
+- mostly aesthetic finishes: making the layout of the advertisement detail page easier to read, fixing any bugs we've encountered
+
+## Week 7:
+This week I:
+- fixed a bug in the confirmation email workflow
+- fixed a bug in the 360 viewing support
+Obstacles:
+- some other assignments/responsibilities came up this week
+What was not finished:
+- I didn't get to fix the layout of the advertisement detail page, but thankfully this has been done by another team member
+Next week:
+- more bug bashing, continuing with aesthetic finishes
+
+## Week 8:
+What was planned:
+- bug bashing
+This week I:
+- Final report documentation: Wrote the user manual, features delivered and technologies used.
+- Bug: Fixed a bug in the search, so that we can sort search results by rent
+- Automatically set check-out date to one day after the check-in date in the search bar.
+- enable a change of date in the accommodation listing, so that the user doesn't need to search again to change the date of booking
+Next week:
+- any bugs left over that need to be fixed
+- prepare for demo
+- finish documentation
+
+## Week 9:
+This week I:
+- organised and held the zoom meeting for the final presentation/demo
+- recorded a backup video for my part of the presentation
+
+Template:
+- what was planned
+- what was finished
+- what were the main technical/non-technical obstacle and how they were overcome (what was tried and did not work)
+- what was not finished, why this happened, how this affects overal project progress and what adjustments (if any) are needed so the success fo the project is not endangered
+- what is planned for then next period
+
+Some potential things:
+- automatically set checkout date upon setting check-in date
+- If not available for those dates:
+	-Display dates available.
+- If available:
+	-Allow change of date
+- make sure that the date range is the right way around.
+
+- Autosuggest addresses in Sydney
+- Google maps API
+- Better date selector.
+- Fix booking accom twice

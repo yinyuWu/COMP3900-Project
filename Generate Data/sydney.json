@@ -1,0 +1,3168 @@
+[{
+  "url": "https://www.booking.com/hotel/au/ocean-views-and-sea-breezes-over-bondi-beach.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Ocean views and sea breezes over Bondi Beach",
+  "rating": 8.7,
+  "reviews": 3,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Bondi, Sydney",
+  "location": {
+    "lat": "151.282163",
+    "lng": "-33.883655"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/wyndel-the-mint.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Wyndel Apartments Neutral Bay - The Mint",
+  "rating": 8.4,
+  "reviews": 11,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney",
+  "location": {
+    "lat": "151.2204264",
+    "lng": "-33.8296791"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/milson-executive-apartments.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Milson Serviced Apartments",
+  "rating": 8.6,
+  "reviews": 462,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney",
+  "location": {
+    "lat": "151.210961892939",
+    "lng": "-33.8473465505474"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/stunning-townhouse-quiet-street-close-to-cbd.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Stunning Townhouse- Quiet Street Close to CBD",
+  "rating": 9.3,
+  "reviews": 4,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney",
+  "location": {
+    "lat": "151.214951",
+    "lng": "-33.892189"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/harbour-views-and-parking-in-tranquil-kirribilli.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Harbour Views and Parking in Tranquil Kirribilli",
+  "rating": null,
+  "reviews": null,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Kirribilli, Sydney",
+  "location": {
+    "lat": "151.2170289",
+    "lng": "-33.8494488"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/contemporary-hideaway-in-sydneys-historic-heart.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Contemporary Hideaway In Sydney’s Historic Heart",
+  "rating": 8.9,
+  "reviews": 7,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.2030272",
+    "lng": "-33.8595002"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/art-deco-apartment-steps-from-harbour-and-beach-manly12.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Art Deco apartment steps from harbour and beach",
+  "rating": null,
+  "reviews": null,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Manly, Sydney",
+  "location": {
+    "lat": "151.2879654",
+    "lng": "-33.8029511"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/wyndel-apartments-st-leonards-6atch-st-leonards1.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Wyndel Apartments St Leonards 6Atch",
+  "rating": 8.8,
+  "reviews": 8,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "St. Leonards, Sydney",
+  "location": {
+    "lat": "151.196246",
+    "lng": "-33.822685"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/coogee-beach-apartment-with-parking-amp-ocean-views.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Coogee Beach Designer Penthouse with Parking",
+  "rating": null,
+  "reviews": null,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Coogee, Sydney",
+  "location": {
+    "lat": "151.2602865",
+    "lng": "-33.9179038"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/botanik-apartment.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Botanik Apartment Hotel",
+  "rating": 8.9,
+  "reviews": 95,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Surry Hills, Sydney",
+  "location": {
+    "lat": "151.2078153",
+    "lng": "-33.8886183"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/stylish-apartment-with-garage-near-bondi-beach.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Stylish Apartment With Garage Near Bondi Beach",
+  "rating": null,
+  "reviews": null,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Bondi, Sydney",
+  "location": {
+    "lat": "151.2659817",
+    "lng": "-33.8879401"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/sunny-apartment-near-water-parks-olympic-stadium.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Sunny Apartment Near Water, Parks, Olympic Stadium",
+  "rating": null,
+  "reviews": null,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney",
+  "location": {
+    "lat": "151.0742933",
+    "lng": "-33.8318544"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/shortozstay-australia-towers.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Australia Towers ShortOzstay",
+  "rating": 8,
+  "reviews": 137,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Olympic Park, Sydney",
+  "location": {
+    "lat": "151.072557420832",
+    "lng": "-33.8467604635601"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/new-oriental-suites.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "New Oriental Serviced Apartments Airport",
+  "rating": 8.1,
+  "reviews": 341,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney",
+  "location": {
+    "lat": "151.154014668544",
+    "lng": "-33.9331814442691"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/light-filled-apartment-with-sweeping-harbour-views.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Light filled apartment with sweeping harbour views",
+  "rating": 8.5,
+  "reviews": 6,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney",
+  "location": {
+    "lat": "151.197069",
+    "lng": "-33.83775"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/m8-group.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "YouNique Apartments Darling Harbour",
+  "rating": 8.8,
+  "reviews": 406,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.197073712268",
+    "lng": "-33.8708445"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/unbelievable-clifftop-townhouse-with-ocean-views.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Unbelievable Clifftop Townhouse with Ocean Views",
+  "rating": null,
+  "reviews": null,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Eastern Suburbs, Sydney",
+  "location": {
+    "lat": "151.2835538",
+    "lng": "-33.8645262"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/trendy-o-brien-in-bondi-beach-h469.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Trendy O'Brien in Bondi Beach",
+  "rating": 8.2,
+  "reviews": 13,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Bondi, Sydney",
+  "location": {
+    "lat": "151.268967",
+    "lng": "-33.888763"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/wyndel-apartments-harbour-watch.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Wyndel Apartments North Sydney - Harbour Watch",
+  "rating": 9.1,
+  "reviews": 5,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "North Sydney, Sydney",
+  "location": {
+    "lat": "151.209436655045",
+    "lng": "-33.8367672778304"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/wyndel-apartments-bertram.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Wyndel Apartments Chatswood - Bertram",
+  "rating": 8.2,
+  "reviews": 11,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Chatswood, Sydney",
+  "location": {
+    "lat": "151.186714991927",
+    "lng": "-33.7967069267361"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/huge-harbour-view-apartment-in-historic-home.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Huge Harbour View Apartment In Historic Home",
+  "rating": 8.6,
+  "reviews": 5,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Mosman, Sydney",
+  "location": {
+    "lat": "151.2284815",
+    "lng": "-33.8357459"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/summery-spacious-4-bed-home-in-kurraba-point.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Summery, spacious 4 bed home in Kurraba Point",
+  "rating": null,
+  "reviews": null,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney",
+  "location": {
+    "lat": "151.223831",
+    "lng": "-33.839719"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/the-pines-spacious-apartment-with-water-views.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "View Of Manly Pines And Waves From Large Apartment",
+  "rating": 8.1,
+  "reviews": 9,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Manly, Sydney",
+  "location": {
+    "lat": "151.2824226",
+    "lng": "-33.7980678"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/convenient-apt-next-to-marina-square.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Convenient apt Next To Marina Square",
+  "rating": null,
+  "reviews": null,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney",
+  "location": {
+    "lat": "151.078262",
+    "lng": "-33.825863"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/walk-to-the-city-from-this-renovated-heritage-gem.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Stylish Terrace Steps From Darling Harbour And ICC",
+  "rating": 8.9,
+  "reviews": 3,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Pyrmont, Sydney",
+  "location": {
+    "lat": "151.1944732",
+    "lng": "-33.871105"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/st-francis-big-bright-apartment-in-top-location.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Large Converted Church Apartment In Top Location",
+  "rating": null,
+  "reviews": null,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Surry Hills, Sydney",
+  "location": {
+    "lat": "151.2118606",
+    "lng": "-33.882729"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/ultimate-bondi-escape-2.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Ultimate Bondi Escape #2 - A Bondi Beach Holiday Home",
+  "rating": 9.1,
+  "reviews": 17,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Eastern Suburbs, Sydney",
+  "location": {
+    "lat": "151.274447",
+    "lng": "-33.8977020323505"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/sun-drenched-ocean-view-apartment.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Sun Drenched Ocean View Apartment",
+  "rating": null,
+  "reviews": null,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Manly, Sydney",
+  "location": {
+    "lat": "151.2898345",
+    "lng": "-33.7998224"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/quest-world-square.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "APX World Square",
+  "rating": 8.3,
+  "reviews": 920,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.206747740507",
+    "lng": "-33.8783367596061"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/quest-at-sydney-olympic-park.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Quest at Sydney Olympic Park",
+  "rating": 8,
+  "reviews": 1125,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Olympic Park, Sydney",
+  "location": {
+    "lat": "151.061904430389",
+    "lng": "-33.8509044637991"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/oversized-2-bedroom-manly-beach-house.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Oversized 2 Bedroom Manly Beach House",
+  "rating": 9.3,
+  "reviews": 3,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Manly, Sydney",
+  "location": {
+    "lat": "151.28894",
+    "lng": "-33.800846"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/orange-stay-pyrmont.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Orange Stay Pyrmont",
+  "rating": 8.2,
+  "reviews": 40,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Pyrmont, Sydney",
+  "location": {
+    "lat": "151.193877",
+    "lng": "-33.866718"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/charming-townhouse-just-steps-from-the-beach.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Charming Townhouse Just Steps From the Beach",
+  "rating": null,
+  "reviews": null,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Bondi, Sydney",
+  "location": {
+    "lat": "151.2750573",
+    "lng": "-33.8872487"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/bright-and-airy-home-tucked-away-in-funky-newtown.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Bright and airy home tucked away in funky Newtown",
+  "rating": 8.8,
+  "reviews": 3,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Newtown, Sydney",
+  "location": {
+    "lat": "151.176125",
+    "lng": "-33.900928"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/harbourside-apartments-sydney.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Harbourside Apartments",
+  "rating": 8.5,
+  "reviews": 1118,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "McMahons Point, Sydney",
+  "location": {
+    "lat": "151.205922961235",
+    "lng": "-33.8486145142796"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/kensington-self-contained-modern-house-89brom.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Kensington Self-Contained Modern House (89BROM)",
+  "rating": 9.4,
+  "reviews": 4,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Kensington , Sydney",
+  "location": {
+    "lat": "151.220068",
+    "lng": "-33.905386"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/beautiful-3-bedroom-in-exclusive-rose-bay.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Expansive Harbour Views - 3 BDR - Amazing Rooftop",
+  "rating": null,
+  "reviews": null,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Eastern Suburbs, Sydney",
+  "location": {
+    "lat": "151.269913",
+    "lng": "-33.868874"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/accommodation-sydney-hyde-park-plaza.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Accommodation Sydney - Hyde Park Plaza",
+  "rating": 8.2,
+  "reviews": 537,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.212521",
+    "lng": "-33.876563"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/spacious-cottage-with-views-10-mins-from-the-city.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Spacious cottage with views, 10 mins from the city",
+  "rating": 8.1,
+  "reviews": 3,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Balmain, Sydney",
+  "location": {
+    "lat": "151.173377",
+    "lng": "-33.864964"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/skygarden-olympic-park-view-2-bedroom-apartment-clyde.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Skygarden olympic park view 2 bedroom apartment",
+  "rating": 8.6,
+  "reviews": 213,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Olympic Park, Sydney",
+  "location": {
+    "lat": "151.073954",
+    "lng": "-33.847841"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/oaks-on-castlereagh-sydney.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Oaks Sydney Castlereagh Suites",
+  "rating": 8.2,
+  "reviews": 1246,
+  "stars": 4,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.208438873291",
+    "lng": "-33.8795013847425"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/family-size-beachside-escape-with-lagoon-view.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Family-size beachside escape with lagoon view",
+  "rating": 9.3,
+  "reviews": 6,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Manly, Sydney",
+  "location": {
+    "lat": "151.285037",
+    "lng": "-33.785645"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/silkari-suites.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Silkari Suites at Chatswood",
+  "rating": 9.1,
+  "reviews": 750,
+  "stars": 4,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Chatswood, Sydney",
+  "location": {
+    "lat": "151.184834017197",
+    "lng": "-33.7950280839864"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/meriton-serviced-apartments-world-tower.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Meriton Suites World Tower",
+  "rating": 9.2,
+  "reviews": 2878,
+  "stars": 5,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.20678126812",
+    "lng": "-33.8765753173942"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/nobbs-executive-2-storey-sydney-apartment-with-pool.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Nobbs · Executive 2 Storey Sydney Apartment with Pool",
+  "rating": 9.7,
+  "reviews": 3,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Surry Hills, Sydney",
+  "location": {
+    "lat": "151.216202",
+    "lng": "-33.888805"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/skygarden-sydney-olympic-park-4-bedroom-city-view.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "SkyGarden Sydney Olympic Park 3 & 4 bedroom City view",
+  "rating": 8.8,
+  "reviews": 179,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Olympic Park, Sydney",
+  "location": {
+    "lat": "151.071987377415",
+    "lng": "-33.8472391322012"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/right-on-bondi.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Right on Bondi",
+  "rating": 8.8,
+  "reviews": 21,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Bondi, Sydney",
+  "location": {
+    "lat": "151.273499",
+    "lng": "-33.894669"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/enormous-and-sunny-apartment-with-leafy-views.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Enormous And Sunny Apartment With Leafy Views",
+  "rating": 9,
+  "reviews": 4,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney",
+  "location": {
+    "lat": "151.0611783",
+    "lng": "-33.8335295"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/work-explore-or-step-out-minutes-from-the-city-ultimo.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Walk to the convention centre, casino, city",
+  "rating": 8,
+  "reviews": 6,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.198765",
+    "lng": "-33.876439"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/coogee-family-home-co19.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Coogee Family Home CO19",
+  "rating": null,
+  "reviews": null,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Coogee, Sydney",
+  "location": {
+    "lat": "151.2513401",
+    "lng": "-33.9193166"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/the-loft-at-waterloo.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "The Loft at Waterloo",
+  "rating": 8.4,
+  "reviews": 27,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney",
+  "location": {
+    "lat": "151.208103",
+    "lng": "-33.898468"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/boutique-designer-apartment-steps-from-the-rocks.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Boutique Designer Apartment Steps From The Rocks",
+  "rating": 8.8,
+  "reviews": 5,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.20281",
+    "lng": "-33.86085"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/oversized-manly-penthouse-with-180deg-ocean-views.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Oversized Manly Penthouse with 180° ocean views",
+  "rating": null,
+  "reviews": null,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Manly, Sydney",
+  "location": {
+    "lat": "151.284897",
+    "lng": "-33.799255"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/unbelievable-luxury-apartment-atop-bondi-beach.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Unbelievable luxury apartment at the top of Bondi Beach",
+  "rating": 8.9,
+  "reviews": 7,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Bondi, Sydney",
+  "location": {
+    "lat": "151.2722051",
+    "lng": "-33.8961393"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/renovated-terrace-in-the-heart-of-historic-sydney.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Renovated terrace in the heart of historic Sydney",
+  "rating": 8.4,
+  "reviews": 5,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.206351",
+    "lng": "-33.857789"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/the-york-by-swiss-belhotel.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "The York by Swiss-Belhotel",
+  "rating": 8.6,
+  "reviews": 1386,
+  "stars": 4,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.205402612686",
+    "lng": "-33.8644847411753"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/coogee-dream-view-apartment.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Coogee Dream View Apartment",
+  "rating": 9.2,
+  "reviews": 6,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Coogee, Sydney",
+  "location": {
+    "lat": "151.254089",
+    "lng": "-33.921467"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/apartment-hyde-park-hay-street-8.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Apartment Hyde Park - Hay street 8",
+  "rating": 9.1,
+  "reviews": 64,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.2038451",
+    "lng": "-33.879375"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/g1708s-3br-zetland.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Gadigal Groove - Modern and Bright 3BR Executive Apartment in Zetland with Views",
+  "rating": 9.2,
+  "reviews": 24,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney",
+  "location": {
+    "lat": "151.212202",
+    "lng": "-33.904014"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/adina-crown-street.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Adina Apartment Hotel Sydney Surry Hills",
+  "rating": 8.7,
+  "reviews": 696,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Surry Hills, Sydney",
+  "location": {
+    "lat": "151.214169412851",
+    "lng": "-33.8839170178776"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/beautiful-downtown-apartment-close-to-everything.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Beautiful Downtown Apartment Close To Everything",
+  "rating": 10,
+  "reviews": 3,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.2036559",
+    "lng": "-33.879193492762"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/contemporary-luxury-in-the-heart-of-sydney.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Contemporary luxury in the heart of Sydney",
+  "rating": 8.1,
+  "reviews": 5,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.202261",
+    "lng": "-33.857305"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/stunning-sunset-water-view-2beds-on-high-rises.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Stunning Sunset Water View 2BEDs on High Rises",
+  "rating": 9,
+  "reviews": 29,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney",
+  "location": {
+    "lat": "151.086838",
+    "lng": "-33.828236"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/newly-settled-three-bedrooms-apartment-in-cbd.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Newly settled three bedrooms apartment in CBD",
+  "rating": 8.6,
+  "reviews": 14,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.204865",
+    "lng": "-33.868259"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/trendy-beach-pad-manly.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Designer Studios Manly",
+  "rating": 8,
+  "reviews": 417,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Manly, Sydney",
+  "location": {
+    "lat": "151.286133",
+    "lng": "-33.788532"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/quest-north-sydney.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Quest North Sydney",
+  "rating": 9,
+  "reviews": 276,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "North Sydney, Sydney",
+  "location": {
+    "lat": "151.20815",
+    "lng": "-33.835798"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/regents-court-apartments.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Regents Court Sydney",
+  "rating": 8.5,
+  "reviews": 665,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Potts Point, Sydney",
+  "location": {
+    "lat": "151.223899796605",
+    "lng": "-33.8725568216831"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/coogee-sands-apartments.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Coogee Sands Hotel & Apartments",
+  "rating": 8.9,
+  "reviews": 1318,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Coogee, Sydney",
+  "location": {
+    "lat": "151.257849186659",
+    "lng": "-33.9188999896726"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/excelsior-serviced-apartments.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Excelsior Serviced apartments",
+  "rating": 8.2,
+  "reviews": 464,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Glebe, Sydney",
+  "location": {
+    "lat": "151.188492",
+    "lng": "-33.878129"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/serviced-apartments-zetland.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Meriton Suites Zetland",
+  "rating": 9.1,
+  "reviews": 4524,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney",
+  "location": {
+    "lat": "151.212764",
+    "lng": "-33.908061"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/australian-tower-stay.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Australian Tower Stay",
+  "rating": 8,
+  "reviews": 199,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Olympic Park, Sydney",
+  "location": {
+    "lat": "151.073175262566",
+    "lng": "-33.8476401053512"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/orange-stay-sydney-cbd.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Orange Stay Sydney CBD",
+  "rating": 8,
+  "reviews": 72,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.208784",
+    "lng": "-33.874782"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/zara-tower-serviced-apartments.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Zara Tower – Luxury Suites and Apartments",
+  "rating": 9,
+  "reviews": 289,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.209709525283",
+    "lng": "-33.879197054683"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/bright-and-spacious-3-bedroom-home-with-courtyard.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Bright and spacious 3-bedroom home with courtyard",
+  "rating": 8.9,
+  "reviews": 15,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "North Sydney, Sydney",
+  "location": {
+    "lat": "151.209378",
+    "lng": "-33.828494"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/adina-sydney-central.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Adina Apartment Hotel Sydney Central",
+  "rating": 8.6,
+  "reviews": 743,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.204316318035",
+    "lng": "-33.883709935803"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/oaks-goldsborough-apartments-darling-harbour.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Oaks Sydney Goldsbrough Suites",
+  "rating": 8,
+  "reviews": 4014,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Pyrmont, Sydney",
+  "location": {
+    "lat": "151.197323799133",
+    "lng": "-33.8740856316268"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/will206s-2br-darlinghurst-uptown-apartments-sydney.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Bridge and Sails - Views of the Bridge and Opera House from this Executive 2BR Apartment in Darlinghurst",
+  "rating": 8.2,
+  "reviews": 15,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Kings Cross, Sydney",
+  "location": {
+    "lat": "151.220672",
+    "lng": "-33.874794"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/madison-carrington-apartments.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Madison Carrington Apartments",
+  "rating": 8.3,
+  "reviews": 255,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.205639",
+    "lng": "-33.867328"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/sky-garden-olympic-park.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Sky garden Olympic park",
+  "rating": 8.5,
+  "reviews": 182,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Olympic Park, Sydney",
+  "location": {
+    "lat": "151.0732776",
+    "lng": "-33.8478099"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/skye-suites-sydney.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "SKYE Suites Sydney",
+  "rating": 9.3,
+  "reviews": 633,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.204576",
+    "lng": "-33.868713"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/eastwood-furnished-apartments.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Eastwood Furnished Apartments",
+  "rating": 8.1,
+  "reviews": 243,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Ryde, Sydney",
+  "location": {
+    "lat": "151.0828287",
+    "lng": "-33.7888428"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/modern-new-2-bed-in-the-heart-of-darling-harbour.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Modern, new 2 bed in the heart of Darling Harbour",
+  "rating": 8.1,
+  "reviews": 45,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.1971359",
+    "lng": "-33.8724064"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/5-bedroom-darlinghurst.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Newly Renovated Dream Mansion - In the heart of the city",
+  "rating": null,
+  "reviews": null,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Darlinghurst, Sydney",
+  "location": {
+    "lat": "151.213501",
+    "lng": "-33.87693"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/one-darling-901.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "One Darling 901",
+  "rating": null,
+  "reviews": null,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.198032",
+    "lng": "-33.870532"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/w19s-2br-bondi-junction-uptown-apartments.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "The Junction Palais - Modern and Spacious 2BR Bondi Junction Apartment Close to Everything",
+  "rating": null,
+  "reviews": null,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Bondi, Sydney",
+  "location": {
+    "lat": "151.254223",
+    "lng": "-33.892706"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/medina-grand-harbourside.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Adina Apartment Hotel Sydney, Darling Harbour",
+  "rating": 8.8,
+  "reviews": 1336,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.20211020112",
+    "lng": "-33.8687630723173"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/the-branksome-amp-residences.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "The Branksome Hotel & Residences",
+  "rating": 9.2,
+  "reviews": 928,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Mascot, Sydney",
+  "location": {
+    "lat": "151.1901508",
+    "lng": "-33.9312086"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/adina-coogee.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Adina Apartment Hotel Coogee Sydney",
+  "rating": 8.7,
+  "reviews": 901,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Coogee, Sydney",
+  "location": {
+    "lat": "151.253569722176",
+    "lng": "-33.920444662018"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/apartment-hyde-park-hay-street-9.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Apartment Hyde Park - Hay street 9",
+  "rating": 9.6,
+  "reviews": 50,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.2036559",
+    "lng": "-33.8792024"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/mantra-2-bond-street.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Mantra 2 Bond Street",
+  "rating": 8.6,
+  "reviews": 1775,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.207504794002",
+    "lng": "-33.864578283243"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/metro-apartments-on-darling-harbour.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Metro Apartments On Darling Harbour",
+  "rating": 8.1,
+  "reviews": 1039,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.203724890947",
+    "lng": "-33.8686873515061"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/merkay-apartments.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Liv Apartments Haymarket",
+  "rating": 8.9,
+  "reviews": 3034,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.203129440546",
+    "lng": "-33.8822234669921"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/apartment-cbd-pitt.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Apartment CBD - Pitt",
+  "rating": 9.1,
+  "reviews": 22,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.2074493",
+    "lng": "-33.8772106"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/sydney-cbd-brand-new-apartments-with-hyde-park-view.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Sydney CBD Brand New Apartments with Hyde Park View",
+  "rating": 8,
+  "reviews": 4,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.208730761377",
+    "lng": "-33.874672201177"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/unit-203-47-1-brushbox-st-sydney-olympic-park.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Comfy & Bright One Bedroom Apartment, Sydney Olympic Park",
+  "rating": 9.1,
+  "reviews": 42,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Olympic Park, Sydney",
+  "location": {
+    "lat": "151.0741769",
+    "lng": "-33.8486396"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/stunning-views-sydney-olympic-park.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Stunning Views Sydney Olympic Park",
+  "rating": 8.7,
+  "reviews": 24,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Olympic Park, Sydney",
+  "location": {
+    "lat": "151.074177",
+    "lng": "-33.84864"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/mantra-parramatta.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Mantra Parramatta",
+  "rating": 8.2,
+  "reviews": 1487,
+  "stars": 4,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Parramatta, Sydney",
+  "location": {
+    "lat": "151.006496027112",
+    "lng": "-33.8195938897948"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/the-collectionist.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "The Collectionist Newtown",
+  "rating": 8.8,
+  "reviews": 900,
+  "stars": 4,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Camperdown, Sydney",
+  "location": {
+    "lat": "151.178376",
+    "lng": "-33.887657"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/quest-st-leonards.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Quest St Leonards",
+  "rating": 8.9,
+  "reviews": 880,
+  "stars": 4,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "St. Leonards, Sydney",
+  "location": {
+    "lat": "151.196307880951",
+    "lng": "-33.8228739149721"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/potts-point-orange-apartments.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Orange Stay Apartments Potts Point",
+  "rating": 8.3,
+  "reviews": 46,
+  "stars": 4,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Potts Point, Sydney",
+  "location": {
+    "lat": "151.2236868",
+    "lng": "-33.8747853"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/adina-apartment-bondi-beach.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Adina Apartment Hotel Bondi Beach Sydney",
+  "rating": 8.9,
+  "reviews": 966,
+  "stars": 4,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Bondi, Sydney",
+  "location": {
+    "lat": "151.271429881454",
+    "lng": "-33.8895523705859"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/adina-chippendale.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Adina Apartment Hotel Chippendale",
+  "rating": 8.6,
+  "reviews": 403,
+  "stars": 4,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney",
+  "location": {
+    "lat": "151.195631325245",
+    "lng": "-33.889160702891"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/woolloomooloo-waters-apartment.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Nesuto Woolloomooloo",
+  "rating": 8.8,
+  "reviews": 586,
+  "stars": 3,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Woolloomooloo, Sydney",
+  "location": {
+    "lat": "151.221530735493",
+    "lng": "-33.8702663392262"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/sydney-olympic-park-apartment.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Sydney Olympic Park Apartment",
+  "rating": 9.3,
+  "reviews": 309,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Olympic Park, Sydney",
+  "location": {
+    "lat": "151.073334908026",
+    "lng": "-33.8482159238591"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/eight-two-nine-two-bondi-beach.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "EIGHT TWO NINE TWO V: BONDI BEACH",
+  "rating": 9.9,
+  "reviews": 3,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Bondi, Sydney",
+  "location": {
+    "lat": "151.273845",
+    "lng": "-33.890592"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/new-luxury-home-near-coogee-beach-in-sydney.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "New Luxury Home Near Coogee Beach In Sydney",
+  "rating": 8.8,
+  "reviews": 8,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Eastern Suburbs, Sydney",
+  "location": {
+    "lat": "151.231055",
+    "lng": "-33.93214"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/qt-bondi.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "QT Bondi",
+  "rating": 9.2,
+  "reviews": 660,
+  "stars": 5,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Bondi, Sydney",
+  "location": {
+    "lat": "151.2755658",
+    "lng": "-33.8884781"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/manly-haven-studio-apt.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Manly Haven - studio apt",
+  "rating": 8.1,
+  "reviews": 42,
+  "stars": 4,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Manly, Sydney",
+  "location": {
+    "lat": "151.2859152",
+    "lng": "-33.7967986"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/quest-macquaurie-park.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Quest Macquarie Park",
+  "rating": 8.8,
+  "reviews": 451,
+  "stars": 4,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "North Ryde, Sydney",
+  "location": {
+    "lat": "151.1274379",
+    "lng": "-33.7879603"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/2-bedroom-luxury-apt-on-balmoral-beach.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "2 Bedroom Luxury Apt on Balmoral Beach",
+  "rating": 9,
+  "reviews": 9,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Mosman, Sydney",
+  "location": {
+    "lat": "151.251",
+    "lng": "-33.8271"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/unit-913-47-50-murray-st-sydney-darling-harbour.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Sydney Darling Harbour Waterfront",
+  "rating": 9.9,
+  "reviews": 146,
+  "stars": 5,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.197806169312",
+    "lng": "-33.8703797244784"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/darling-harbor-apartment.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Darling Harbor Apartment",
+  "rating": null,
+  "reviews": null,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney",
+  "location": {
+    "lat": "151.1914947",
+    "lng": "-33.8739482"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/waterfront-apartment-brimming-with-inspirational-artwork.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Waterfront Apartment Brimming with Inspirational Artwork",
+  "rating": null,
+  "reviews": null,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Double Bay, Sydney",
+  "location": {
+    "lat": "151.24501",
+    "lng": "-33.874088"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/quest-chatswood.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Quest Chatswood",
+  "rating": 8.6,
+  "reviews": 385,
+  "stars": 4,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Chatswood, Sydney",
+  "location": {
+    "lat": "151.1863828",
+    "lng": "-33.7972088"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/fraser-suites-sydney.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Fraser Suites Sydney",
+  "rating": 8.6,
+  "reviews": 1127,
+  "stars": 5,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.205531358719",
+    "lng": "-33.8748828734357"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/the-uban.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "The Urban Newtown",
+  "rating": 8.7,
+  "reviews": 1903,
+  "stars": 4,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Newtown, Sydney",
+  "location": {
+    "lat": "151.1763398",
+    "lng": "-33.8988236"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/adina-sydney.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Adina Apartment Hotel Sydney Town Hall",
+  "rating": 8.5,
+  "reviews": 1308,
+  "stars": 4,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.205204129219",
+    "lng": "-33.8742593329906"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/adge-apartment.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Adge Apartments",
+  "rating": 9.3,
+  "reviews": 185,
+  "stars": 5,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Surry Hills, Sydney",
+  "location": {
+    "lat": "151.214017",
+    "lng": "-33.880321"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/apartment-cbd-harris-st-6.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Apartment CBD - Harris St 6",
+  "rating": 9.8,
+  "reviews": 29,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Ultimo, Sydney",
+  "location": {
+    "lat": "151.1984595",
+    "lng": "-33.8781188"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/furnished-apartment-near-bondi-junction.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Pelicanstay in Bondi Junction",
+  "rating": 8.3,
+  "reviews": 41,
+  "stars": 4,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Bondi, Sydney",
+  "location": {
+    "lat": "151.2529613",
+    "lng": "-33.892806"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/parramatta-waldorf-apartment.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Nesuto Parramatta",
+  "rating": 8.1,
+  "reviews": 883,
+  "stars": 4,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Parramatta, Sydney",
+  "location": {
+    "lat": "151.02073520422",
+    "lng": "-33.8241931086702"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/quest-potts-point.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Quest Potts Point",
+  "rating": 8.4,
+  "reviews": 440,
+  "stars": 4,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Potts Point, Sydney",
+  "location": {
+    "lat": "151.223483383656",
+    "lng": "-33.8732906093343"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/the-rocksberry.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "The Rocksberry",
+  "rating": 9.1,
+  "reviews": 25,
+  "stars": 5,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.203888",
+    "lng": "-33.8597964"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/new-silkroad-apartments-airport.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "New SilkRoad Apartments Sydney",
+  "rating": 8.2,
+  "reviews": 162,
+  "stars": 4,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Mascot, Sydney",
+  "location": {
+    "lat": "151.1875714",
+    "lng": "-33.9238653"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/deluxe-apartment-in-the-heart-of-sydney-cbd.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Comfortable Apartment in Central Sydney",
+  "rating": 8.1,
+  "reviews": 103,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.202842902416",
+    "lng": "-33.8834670170394"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/eight-two-nine-two-iii-bondi-beach.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "EIGHT TWO NINE TWO III: BONDI BEACH",
+  "rating": 9,
+  "reviews": 7,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Bondi, Sydney",
+  "location": {
+    "lat": "151.273845",
+    "lng": "-33.890592"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/bondi-38-serviced-apartments.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Bondi 38 Serviced Apartments",
+  "rating": 8.9,
+  "reviews": 255,
+  "stars": 4,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Bondi, Sydney",
+  "location": {
+    "lat": "151.272830665112",
+    "lng": "-33.8933164561196"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/australia-tower-olympic-park-green.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Australia Tower - Olympic Park Green",
+  "rating": 9.8,
+  "reviews": 19,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Olympic Park, Sydney",
+  "location": {
+    "lat": "151.073423728836",
+    "lng": "-33.848160462195"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/olympic-park-sunshine-2-bedrooms-apts-with-private-parking.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Olympic park Sunshine 2 bedrooms Apts with Private parking",
+  "rating": 8.4,
+  "reviews": 31,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Olympic Park, Sydney",
+  "location": {
+    "lat": "151.0732776",
+    "lng": "-33.8478099"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/sydney-star-terrace.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Sydney Star Terrace",
+  "rating": 8.8,
+  "reviews": 18,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Pyrmont, Sydney",
+  "location": {
+    "lat": "151.192341",
+    "lng": "-33.868968"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/luxury-house-close-to-city-amp-bondi-beach.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Luxury House In Bondi Junction",
+  "rating": 9.6,
+  "reviews": 27,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Eastern Suburbs, Sydney",
+  "location": {
+    "lat": "151.245998",
+    "lng": "-33.889227"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/luxurious-apartment-in-the-heart-of-sydney-cbd.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Cosy Apartment in Central Sydney",
+  "rating": 8.4,
+  "reviews": 98,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.20281",
+    "lng": "-33.883809"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/buxton-house.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Buxton House",
+  "rating": 8.3,
+  "reviews": 71,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney",
+  "location": {
+    "lat": "151.204809",
+    "lng": "-33.89316"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/luxurious-3br-entertainer-at-darling-harbour-icc-and-sydney-cbd.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Darling Harbour 3BR Staycation ICC CBD 达令港全景三房",
+  "rating": null,
+  "reviews": null,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.1975547",
+    "lng": "-33.8701516"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/chic-apartment-with-separate-bedroom-near-beaches.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Chic Apartment with Separate Bedroom near Beaches",
+  "rating": null,
+  "reviews": null,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney",
+  "location": {
+    "lat": "151.262306",
+    "lng": "-33.7918593"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/medina-classic-martin-place.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Adina Serviced Apartments Sydney Martin Place",
+  "rating": 8.1,
+  "reviews": 802,
+  "stars": 4,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.20917648077",
+    "lng": "-33.8671428550077"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/little-sparkle-manly.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Manly Central Executive",
+  "rating": 8.9,
+  "reviews": 44,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Manly, Sydney",
+  "location": {
+    "lat": "151.2864202",
+    "lng": "-33.7963228"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/acliving-serviced-apartments.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "ACLiving Serviced Apartments",
+  "rating": 8.6,
+  "reviews": 8,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "St. Leonards, Sydney",
+  "location": {
+    "lat": "151.194694871164",
+    "lng": "-33.8225042697279"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/brand-new-designer-apartment.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Brand New Designer Apartment",
+  "rating": null,
+  "reviews": null,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney",
+  "location": {
+    "lat": "151.087305",
+    "lng": "-33.848921"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/relaxed-northern-beaches-experience.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Relaxed Northern Beaches Experience",
+  "rating": null,
+  "reviews": null,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney",
+  "location": {
+    "lat": "151.262306",
+    "lng": "-33.7918593"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/comfortable-new-homebush-apartment.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Comfortable, New Homebush Apartment",
+  "rating": 9.1,
+  "reviews": 69,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney",
+  "location": {
+    "lat": "151.07715515",
+    "lng": "-33.863624050027"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/sydney-history-with-modern-design-and-location.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Sydney history, with modern design and location",
+  "rating": null,
+  "reviews": null,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Darlinghurst, Sydney",
+  "location": {
+    "lat": "151.2178479",
+    "lng": "-33.8790869"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/darling-harbour-apartment-1.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Darling harbour apartment 1",
+  "rating": 8.5,
+  "reviews": 27,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.1971324",
+    "lng": "-33.8720854"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/stunning-with-rare-views.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Stunning with rare views",
+  "rating": 8.4,
+  "reviews": 14,
+  "stars": 4,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Mosman, Sydney",
+  "location": {
+    "lat": "151.233875602484",
+    "lng": "-33.8400394843356"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/cosy-and-well-lit-loft-five-minutes-from-manly.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Cosy and Well-lit Loft Five Minutes from Manly",
+  "rating": null,
+  "reviews": null,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney",
+  "location": {
+    "lat": "151.262306",
+    "lng": "-33.7918593"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/spacious-apartment-sydney-darling-harbour-icc.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Spacious Apartment,Sydney, Darling Harbour,ICC!",
+  "rating": null,
+  "reviews": null,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Ultimo, Sydney",
+  "location": {
+    "lat": "151.198902865607",
+    "lng": "-33.880300171273"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/bondi-beach-prime-1-bedroom-sunroom.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "BONDI BEACH PRIME 1 Bedroom + Sunroom",
+  "rating": 8.7,
+  "reviews": 24,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Bondi, Sydney",
+  "location": {
+    "lat": "151.272141",
+    "lng": "-33.891392"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/darlinghurst-self-contained-modern-one-bedroom-apartment-21-crn.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Darlinghurst Self-Contained Modern One Bedroom Apartment (21 CRN)",
+  "rating": null,
+  "reviews": null,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Darlinghurst, Sydney",
+  "location": {
+    "lat": "151.216456",
+    "lng": "-33.874871"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/arncliffe-stay.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Wolli Creek Airport Serviced 2 Bedroom Apartment",
+  "rating": 8.3,
+  "reviews": 13,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney",
+  "location": {
+    "lat": "151.1473975",
+    "lng": "-33.932591"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/sydney-cbd-luxurious-2-bedroom-apartment.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Sydney CBD Modern 2 bedroom Apartment + Free Car Parking",
+  "rating": 8.4,
+  "reviews": 9,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.2087871",
+    "lng": "-33.873434118596"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/artsy-modern-one-bed-apartment-near-manly-beach.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Artsy, Modern One-bed Apartment near Manly Beach",
+  "rating": null,
+  "reviews": null,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney",
+  "location": {
+    "lat": "151.262306",
+    "lng": "-33.7918593"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/brand-new-apartment-in-pymble.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Kent CBD Apartment",
+  "rating": 8,
+  "reviews": 48,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.204306896675",
+    "lng": "-33.8692717516081"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/the-chee-bondi.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "The Chee Bondi",
+  "rating": 9.3,
+  "reviews": 205,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Bondi, Sydney",
+  "location": {
+    "lat": "151.272609138492",
+    "lng": "-33.8905610952059"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/stylish-amp-cozy-apartment-close-to-airport-and-sydney-cbd.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Stylish & Cozy Apartment Close to Airport and Sydney CBD",
+  "rating": 8.3,
+  "reviews": 90,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Mascot, Sydney",
+  "location": {
+    "lat": "151.185378",
+    "lng": "-33.92148"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/elegant-parramatta-cbd-home-neflix-47-wifi-47-parking.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Parramatta 3 Bedroom Home - Free Netflix, Fast Internet & 3 Car Parking Spots",
+  "rating": 9.4,
+  "reviews": 5,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Parramatta, Sydney",
+  "location": {
+    "lat": "151.0186863",
+    "lng": "-33.8190457"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/mascot-central-private-apartment-inner-syd-cbd.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Mascot Central Private Apartment Inner SYD CBD",
+  "rating": 8.3,
+  "reviews": 129,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Mascot, Sydney",
+  "location": {
+    "lat": "151.185765",
+    "lng": "-33.921438"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/eight-two-nine-two-iv-bondi-beach.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "EIGHT TWO NINE TWO IV: BONDI BEACH",
+  "rating": 8.9,
+  "reviews": 14,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Bondi, Sydney",
+  "location": {
+    "lat": "151.273845",
+    "lng": "-33.890592"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/modern-apartment-in-convenient-balgowlah-location.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Modern Apartment in Convenient Balgowlah Location",
+  "rating": null,
+  "reviews": null,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney",
+  "location": {
+    "lat": "151.262306",
+    "lng": "-33.7918593"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/breakfree-on-george.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Mantra Sydney Central",
+  "rating": 8.2,
+  "reviews": 1663,
+  "stars": 4,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.205343604088",
+    "lng": "-33.8791762711029"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/elegant-loft-perfect-for-inner-city-explorers.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Elegant Loft Perfect for Inner City Explorers",
+  "rating": null,
+  "reviews": null,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney",
+  "location": {
+    "lat": "151.1860243",
+    "lng": "-33.9044803"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/adina-apartment-sydney-airport.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Adina Apartment Hotel Sydney Airport",
+  "rating": 8.8,
+  "reviews": 1037,
+  "stars": 4,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Mascot, Sydney",
+  "location": {
+    "lat": "151.187992965082",
+    "lng": "-33.9255745872163"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/brand-new-apartment-in-chinatown-47-darling-harbour.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "2BR Apartment in Chinatown/ Darling Harbour/ ICC",
+  "rating": 8.7,
+  "reviews": 20,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.203151680104",
+    "lng": "-33.878483855016"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/luxury-2-bed-short-walk-sydney-convention-centre.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Luxury 2 bed, short walk Sydney Convention Centre",
+  "rating": 8,
+  "reviews": 20,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.1971359",
+    "lng": "-33.8724064"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/liv-apartments-darling-harbour.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Liv Arena Apartments Darling Harbour",
+  "rating": 8.8,
+  "reviews": 1030,
+  "stars": 5,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.197045549074",
+    "lng": "-33.8708289108068"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/park-regis-concierge-apartments.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Park Regis Concierge Apartments",
+  "rating": 8.5,
+  "reviews": 546,
+  "stars": 4,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Cremorne, Sydney",
+  "location": {
+    "lat": "151.22958406806",
+    "lng": "-33.8285436440032"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/p266-good-location-pyrmont-apt-near-the-star.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "P266 - Good location Pyrmont apt near The Star",
+  "rating": 8.7,
+  "reviews": 9,
+  "stars": 5,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Pyrmont, Sydney",
+  "location": {
+    "lat": "151.195726",
+    "lng": "-33.872355"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/mantra-on-kent.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Mantra on Kent",
+  "rating": 8.4,
+  "reviews": 772,
+  "stars": 4,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.204804480076",
+    "lng": "-33.871751763634"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/jet-flamingo.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Jet Flamingo",
+  "rating": 8.4,
+  "reviews": 21,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Bondi, Sydney",
+  "location": {
+    "lat": "151.273584365845",
+    "lng": "-33.8895926523822"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/stunning-views.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Stunning Views",
+  "rating": 9.8,
+  "reviews": 18,
+  "stars": 5,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Eastern Suburbs, Sydney",
+  "location": {
+    "lat": "151.27996134418",
+    "lng": "-33.881287326504"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/outstanding-3-bedhouse-2-loft.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "YouNique 2 Bed n Loft CASINO",
+  "rating": 9.2,
+  "reviews": 26,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Pyrmont, Sydney",
+  "location": {
+    "lat": "151.192090326389",
+    "lng": "-33.8684247561877"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/sydney-cbd-two-bedroom-walk-to-opera-house.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Ausmine Carrington Apartment",
+  "rating": 8,
+  "reviews": 63,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.2056388",
+    "lng": "-33.8673285"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/r11s-2br-darlinghurst-uptown-apartments.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "New York on Riley - Split-Level Executive 2BR Darlinghurst Apartment with a New York Feel",
+  "rating": 8.4,
+  "reviews": 19,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Darlinghurst, Sydney",
+  "location": {
+    "lat": "151.215284105488",
+    "lng": "-33.8749216807633"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/stylish-one-bedroom-apartment-abode-in-balgowlah.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Stylish One Bedroom Apartment Abode in Balgowlah",
+  "rating": null,
+  "reviews": null,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney",
+  "location": {
+    "lat": "151.262306",
+    "lng": "-33.7918593"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/camperdown-apartments.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Atlas Serviced Apartments",
+  "rating": 8.7,
+  "reviews": 659,
+  "stars": 4,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Camperdown, Sydney",
+  "location": {
+    "lat": "151.177110671997",
+    "lng": "-33.8861525816037"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/macquaire-park-garden-apartment.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "8 mins walk to Macquarie U and Hospital 2BR 2BA 1Parking",
+  "rating": 8.2,
+  "reviews": 22,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "North Ryde, Sydney",
+  "location": {
+    "lat": "151.1127822",
+    "lng": "-33.780522"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/visit-sydney-olympic-park-from-an-apartment-with-city-views-sydney-olympic-park.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Visit Sydney Olympic Park from an Apartment with City Views",
+  "rating": 9.3,
+  "reviews": 4,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Olympic Park, Sydney",
+  "location": {
+    "lat": "151.074434392065",
+    "lng": "-33.848497033061"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/st-valentines-apartments.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "St Valentines Apartments Mosman",
+  "rating": 9.5,
+  "reviews": 45,
+  "stars": 4,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Mosman, Sydney",
+  "location": {
+    "lat": "151.2443755",
+    "lng": "-33.8246645"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/will106s-2br-darlinghurst.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Lower Bridge and Sails - Executive 2BR Darlinghurst Apartment with Balcony and Rooftop Views",
+  "rating": 8.2,
+  "reviews": 10,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Darlinghurst, Sydney",
+  "location": {
+    "lat": "151.220134",
+    "lng": "-33.87501"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/3-bedroom-cozy-and-quiet-holiday-home.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "3 Bedroom cozy and quiet holiday home",
+  "rating": 9.2,
+  "reviews": 116,
+  "stars": 4,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney",
+  "location": {
+    "lat": "151.112732291222",
+    "lng": "-33.9775330836194"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/56c-gloucester-street-the-rocks1.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Discover The Rocks - Historical Terrace House",
+  "rating": 8.6,
+  "reviews": 47,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.207342788208",
+    "lng": "-33.8599673094735"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/quest-manly.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Quest Manly",
+  "rating": 9.1,
+  "reviews": 293,
+  "stars": 4,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Manly, Sydney",
+  "location": {
+    "lat": "151.284357458353",
+    "lng": "-33.7990113615178"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/grande-esplanade-studio-sydney.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Grande Esplanade Studio",
+  "rating": 9.5,
+  "reviews": 89,
+  "stars": 4,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Manly, Sydney",
+  "location": {
+    "lat": "151.2839477",
+    "lng": "-33.7986002"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/stunning-sydney-harbour-views.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Stunning Sydney Harbour Views",
+  "rating": null,
+  "reviews": null,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Paddington, Sydney",
+  "location": {
+    "lat": "151.228668",
+    "lng": "-33.884163"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/high-level-stunning-view-apt-olympic-park.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "High Level Stunning View Apt@Olympic Park",
+  "rating": 8.9,
+  "reviews": 292,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Olympic Park, Sydney",
+  "location": {
+    "lat": "151.073075771164",
+    "lng": "-33.8477314736693"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/classic-2-br-apt-in-pyrmont.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "YouNique 2 Bed at The OAKS",
+  "rating": 8.4,
+  "reviews": 4,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Pyrmont, Sydney",
+  "location": {
+    "lat": "151.196670580679",
+    "lng": "-33.873353689445"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/the-william-darlinghurst.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Urban Rest - The William",
+  "rating": null,
+  "reviews": null,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Darlinghurst, Sydney",
+  "location": {
+    "lat": "151.219627",
+    "lng": "-33.87508"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/benalong-apartment.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Benalong Apartment - at Gladesville",
+  "rating": 9.3,
+  "reviews": 29,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney",
+  "location": {
+    "lat": "151.127604",
+    "lng": "-33.830883"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/panoramic-views-in-luxurious-brand-new-apartment.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Panoramic views in luxurious brand new apartment",
+  "rating": 8.6,
+  "reviews": 108,
+  "stars": 5,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney",
+  "location": {
+    "lat": "151.1552596",
+    "lng": "-33.9278967"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/away-from-the-hustle-amp-bustle-immerse-in-this-majestic-private-utopia-in-ryde.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Isolate In Style! Majestic, Private Abode In Ryde-Short Drive To Paramatta River",
+  "rating": 9.2,
+  "reviews": 8,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Ryde, Sydney",
+  "location": {
+    "lat": "151.1136737",
+    "lng": "-33.8166769"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/kappa-kirribilli.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Kappa Kirribilli",
+  "rating": null,
+  "reviews": null,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Kirribilli, Sydney",
+  "location": {
+    "lat": "151.2150481",
+    "lng": "-33.8481837"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/parkside-apartments.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Parkside Apartments Parramatta",
+  "rating": 8.5,
+  "reviews": 98,
+  "stars": 3,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Parramatta, Sydney",
+  "location": {
+    "lat": "151.012325137854",
+    "lng": "-33.8112783466703"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/australia-tower-olympic-park-blue.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Australia Tower - Olympic Park Blue",
+  "rating": 9.7,
+  "reviews": 25,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Olympic Park, Sydney",
+  "location": {
+    "lat": "151.073445186508",
+    "lng": "-33.848169372671"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/quay-west-2007.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Quay West 2007",
+  "rating": null,
+  "reviews": null,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.206918",
+    "lng": "-33.861692"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/furnished-studio-on-kent.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Furnished Studio on Kent",
+  "rating": 8.1,
+  "reviews": 16,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Sydney Central Business District, Sydney",
+  "location": {
+    "lat": "151.203556130108",
+    "lng": "-33.8629522426884"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/holiday-home-fairy-bower-road-manly.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Holiday Home Fairy Bower Road Manly FAB05",
+  "rating": null,
+  "reviews": null,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Manly, Sydney",
+  "location": {
+    "lat": "151.291476",
+    "lng": "-33.804"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/quest-north-ryde.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Quest North Ryde",
+  "rating": 8,
+  "reviews": 767,
+  "stars": 4,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Macquarie Park, Sydney",
+  "location": {
+    "lat": "151.143945157528",
+    "lng": "-33.7954651085057"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/urban-rest-the-waterloo.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Urban Rest - The Waterloo",
+  "rating": null,
+  "reviews": null,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Surry Hills, Sydney",
+  "location": {
+    "lat": "151.2105709",
+    "lng": "-33.8868189"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/modern-sydney-surry-hills-19th-century-cottage.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Modern Sydney/Surry Hills 19th Century Cottage",
+  "rating": 8.9,
+  "reviews": 12,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Surry Hills, Sydney",
+  "location": {
+    "lat": "151.212906",
+    "lng": "-33.881115"
+  }
+}]

@@ -1,0 +1,38 @@
+Week 1
+Group of 4 was formed in lab session. I created and managed the Jira Project.
+I also joined our projecr repository on Github.
+I suggested some part of project architecture and technology.
+I decided to use AWS cloud computing as our infrastructure.
+
+Week 2
+I helped review some epics and wrote the software architecture section. 
+I also helped in provider part of prototype.
+
+Week3
+I setup AWS IAM User credential for each team member.
+I host frontend to AWS S3.
+
+Week4
+I create template.yaml to automatically deploy AWS cloud from localhost.
+I implement edit an advertisement API endpoint.
+
+Week5
+I created 3 API: cancel booking, create booking and update advertisement
+I wrote the API documentation.
+I integrated API with frontend.
+
+Week6
+I used filepond library to handle uploading photos and 360 photo when customer what to update his/her advertisement
+I registerd taxidi.tech domain name and bind it to with our web hosting.
+
+Week7
+I generated 150+ samples of advertisements from various suburbs in Sydney.
+
+Week8
+I wrote about setup guide of our project in report.
+
+Week9
+Record the demo presentation.
+
+Week10
+Demo and finish final report

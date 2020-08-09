@@ -1,0 +1,440 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Transform: AWS::Serverless-2016-10-31
+Description: >
+  Backend
+  Sample SAM Template for Backend
+
+# More info about Globals: https://github.com/awslabs/serverless-application-model/blob/master/docs/globals.rst
+Globals:
+  Function:
+    Timeout: 3
+    Environment:
+      Variables:
+        ADDRESS_TABLE: Addresses
+        ADVERTISEMENT_TABLE: Advertisements
+        BOOKING_TABLE: Bookings
+        REVIEW_TABLE: Reviews
+        USER_TABLE: Users
+
+Resources:
+  #Role
+  TaxidiLambdaRole:
+    Type: "AWS::IAM::Role"
+    Properties:
+      RoleName: !Sub ${AWS::StackName}-TaxidiLambdaRole
+      AssumeRolePolicyDocument:
+        Version: 2012-10-17
+        Statement:
+          - Effect: Allow
+            Principal:
+              Service:
+                - lambda.amazonaws.com
+            Action:
+              - "sts:AssumeRole"
+      ManagedPolicyArns:
+        - "arn:aws:iam::aws:policy/AmazonSQSFullAccess"
+        - "arn:aws:iam::aws:policy/AmazonS3FullAccess"
+        - "arn:aws:iam::aws:policy/AmazonDynamoDBFullAccess"
+        - "arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole"
+        - "arn:aws:iam::aws:policy/AmazonSNSFullAccess"
+        - "arn:aws:iam::aws:policy/AmazonCognitoPowerUser"
+        - "arn:aws:iam::aws:policy/AWSLambdaFullAccess"
+        - "arn:aws:iam::aws:policy/AmazonSESFullAccess"
+
+  #API
+  TaxidiApiGateway:
+    Type: AWS::Serverless::Api
+    Properties:
+      Name: TaxidiApiGateway
+      StageName: Prod
+      Cors:
+        AllowMethods: "'*'"
+        AllowHeaders: "'*'"
+        AllowOrigin: "'*'"
+        AllowCredentials: "'*'"
+      Auth:
+        Authorizers:
+          TaxidiCognitoAuth:
+            UserPoolArn: arn:aws:cognito-idp:ap-southeast-2:608348919605:userpool/ap-southeast-2_VYLstuuWv
+            Identity:
+              Header: Authorization
+        AddDefaultAuthorizerToCorsPreflight: False
+      GatewayResponses:
+        UNAUTHORIZED:
+          StatusCode: 401
+          ResponseParameters:
+            Headers:
+              Access-Control-Allow-Origin: "'*'"
+        ACCESS_DENIED:
+          StatusCode: 403
+          ResponseParameters:
+            Headers:
+              Access-Control-Allow-Origin: "'*'"
+        DEFAULT_4XX:
+          StatusCode: 400
+          ResponseParameters:
+            Headers:
+              Access-Control-Allow-Origin: "'*'"
+        DEFAULT_5XX:
+          StatusCode: 500
+          ResponseParameters:
+            Headers:
+              Access-Control-Allow-Origin: "'*'"
+        RESOURCE_NOT_FOUND:
+          StatusCode: 404
+          ResponseParameters:
+            Headers:
+              Access-Control-Allow-Origin: "'*'"
+  #Lambda Function
+  AuthenticationFunction:
+    Type: AWS::Serverless::Function # More info about Function Resource: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#awsserverlessfunction
+    Properties:
+      FunctionName: !Sub ${AWS::StackName}-authentication
+      Description: ""
+      Role: !GetAtt TaxidiLambdaRole.Arn
+      CodeUri: authentication/
+      Handler: app.lambda_handler
+      Runtime: python3.8
+      Events:
+        ReviewApi:
+          Type: Api # More info about API Event Source: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#api
+          Properties:
+            Path: /authentication
+            Method: POST
+            RestApiId: !Ref TaxidiApiGateway
+
+  # Review Section
+  CreateReviewsFunction:
+    Type: AWS::Serverless::Function # More info about Function Resource: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#awsserverlessfunction
+    Properties:
+      FunctionName: !Sub ${AWS::StackName}-createReview
+      Description: "create a review"
+      Role: !GetAtt TaxidiLambdaRole.Arn
+      CodeUri: createReview/
+      Handler: app.lambda_handler
+      Runtime: python3.8
+      Events:
+        ReviewApi:
+          Type: Api # More info about API Event Source: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#api
+          Properties:
+            Path: /review
+            Method: POST
+            RestApiId: !Ref TaxidiApiGateway
+
+  GetReviewsFunction:
+    Type: AWS::Serverless::Function # More info about Function Resource: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#awsserverlessfunction
+    Properties:
+      FunctionName: !Sub ${AWS::StackName}-getReviewsWithAdvertisementID
+      Description: "get reviews with advertisement id"
+      Role: !GetAtt TaxidiLambdaRole.Arn
+      CodeUri: getReviewsWithAdvertisementID/
+      Handler: app.lambda_handler
+      Runtime: python3.8
+      Events:
+        ReviewApi:
+          Type: Api # More info about API Event Source: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#api
+          Properties:
+            Path: /reviews/{id}
+            Method: GET
+            RestApiId: !Ref TaxidiApiGateway
+
+  # Advertisement Section
+  CreateAdvertisementFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      FunctionName: !Sub ${AWS::StackName}-createAdvertisement
+      Description: "create an advertisement"
+      CodeUri: createAdvertisement
+      Handler: app.lambda_handler
+      Role: !GetAtt TaxidiLambdaRole.Arn
+      Runtime: python3.8
+      Events:
+        AdvertisementApi:
+          Type: Api # More info about API Event Source: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#api
+          Properties:
+            Path: /advertisement
+            Method: POST
+            RestApiId: !Ref TaxidiApiGateway
+  UpdateAdvertisementFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      FunctionName: !Sub ${AWS::StackName}-updateAdvertisement
+      Description: "update an advertisement"
+      CodeUri: updateAdvertisement
+      Handler: app.lambda_handler
+      Role: !GetAtt TaxidiLambdaRole.Arn
+      Runtime: python3.8
+      Events:
+        AdvertisementApi:
+          Type: Api # More info about API Event Source: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#api
+          Properties:
+            Path: /advertisement
+            Method: PUT
+            RestApiId: !Ref TaxidiApiGateway
+
+  DeleteAdvertisement:
+    Type: AWS::Serverless::Function
+    Properties:
+      FunctionName: !Sub ${AWS::StackName}-deleteAdvertisement
+      Role: !GetAtt TaxidiLambdaRole.Arn
+      Description: ""
+      CodeUri: deleteAdvertisement/
+      Handler: app.lambda_handler
+      Runtime: python3.8
+      Events:
+        AdvertisementApi:
+          Type: Api
+          Properties:
+            Path: /advertisement/{id}
+            Method: DELETE
+            RestApiId: !Ref TaxidiApiGateway
+  GetAdvertisementFunction:
+    Type: AWS::Serverless::Function # More info about Function Resource: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#awsserverlessfunction
+    Properties:
+      FunctionName: !Sub ${AWS::StackName}-getAdvertisement
+      Description: "get advertisements by email"
+      Role: !GetAtt TaxidiLambdaRole.Arn
+      CodeUri: getAdvertisement/
+      Handler: app.lambda_handler
+      Runtime: python3.8
+      Events:
+        ReviewApi:
+          Type: Api # More info about API Event Source: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#api
+          Properties:
+            Path: /getAdvertisements/{email}
+            Method: GET
+            RestApiId: !Ref TaxidiApiGateway
+  #Booking Section
+  GetBookingsByTenantFunction:
+    Type: AWS::Serverless::Function # More info about Function Resource: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#awsserverlessfunction
+    Properties:
+      FunctionName: !Sub ${AWS::StackName}-getBookingsByTenant
+      Description: "get bookings for a particular tenant"
+      Role: !GetAtt TaxidiLambdaRole.Arn
+      CodeUri: getBookingsByTenant
+      Handler: app.lambda_handler
+      Runtime: python3.8
+      Events:
+        AdvertisementApi:
+          Type: Api # More info about API Event Source: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#api
+          Properties:
+            Path: /getBookingsByTenant/{tenant}
+            Method: GET
+            RestApiId: !Ref TaxidiApiGateway
+  GetBookingsByOwnerFunction:
+    Type: AWS::Serverless::Function # More info about Function Resource: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#awsserverlessfunction
+    Properties:
+      FunctionName: !Sub ${AWS::StackName}-getBookingsByOwner
+      Description: "get bookings for a particular owner"
+      Role: !GetAtt TaxidiLambdaRole.Arn
+      CodeUri: getBookingsByOwner
+      Handler: app.lambda_handler
+      Runtime: python3.8
+      Events:
+        AdvertisementApi:
+          Type: Api # More info about API Event Source: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#api
+          Properties:
+            Path: /getBookingsByOwner/{owner}
+            Method: GET
+            RestApiId: !Ref TaxidiApiGateway
+  CreateBookingFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      FunctionName: !Sub ${AWS::StackName}-createBooking
+      Description: "create a booking"
+      CodeUri: createBooking
+      Handler: app.lambda_handler
+      Role: !GetAtt TaxidiLambdaRole.Arn
+      Runtime: python3.8
+      Events:
+        AdvertisementApi:
+          Type: Api # More info about API Event Source: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#api
+          Properties:
+            Path: /booking
+            Method: POST
+            RestApiId: !Ref TaxidiApiGateway
+  GetSingleBooking:
+    Type: AWS::Serverless::Function # More info about Function Resource: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#awsserverlessfunction
+    Properties:
+      FunctionName: !Sub ${AWS::StackName}-getSingleBooking
+      Description: "get single booking"
+      Role: !GetAtt TaxidiLambdaRole.Arn
+      CodeUri: getSingleBooking
+      Handler: app.lambda_handler
+      Runtime: python3.8
+      Events:
+        AdvertisementApi:
+          Type: Api # More info about API Event Source: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#api
+          Properties:
+            Path: /getBooking/{id}
+            Method: GET
+            RestApiId: !Ref TaxidiApiGateway
+
+  DeleteBookingFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      FunctionName: !Sub ${AWS::StackName}-deleteBooking
+      Description: "delete a booking from booking_table"
+      CodeUri: deleteBooking
+      Handler: app.lambda_handler
+      Role: !GetAtt TaxidiLambdaRole.Arn
+      Runtime: python3.8
+      Events:
+        AdvertisementApi:
+          Type: Api # More info about API Event Source: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#api
+          Properties:
+            Path: /booking/{id}
+            Method: DELETE
+            RestApiId: !Ref TaxidiApiGateway
+
+  CancelBookingFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      FunctionName: !Sub ${AWS::StackName}-cancelBooking
+      Description: "cancel a booking (just change status of booking)"
+      CodeUri: cancelBooking
+      Handler: app.lambda_handler
+      Role: !GetAtt TaxidiLambdaRole.Arn
+      Runtime: python3.8
+      Events:
+        AdvertisementApi:
+          Type: Api # More info about API Event Source: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#api
+          Properties:
+            Path: /cancelbooking
+            Method: POST
+            RestApiId: !Ref TaxidiApiGateway
+
+  streamAdToAlgolia:
+    Type: AWS::Serverless::Function # More info about Function Resource: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#awsserverlessfunction
+    Properties:
+      FunctionName: !Sub ${AWS::StackName}-streamAdToAlgolia
+      Description: "stream info to algolia"
+      Role: !GetAtt TaxidiLambdaRole.Arn
+      CodeUri: streamAdToAlgolia/
+      Handler: app.lambda_handler
+      Runtime: python3.8
+
+  SearchAlgoliaRecords:
+    Type: AWS::Serverless::Function # More info about Function Resource: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#awsserverlessfunction
+    Properties:
+      FunctionName: !Sub ${AWS::StackName}-searchAlgoliaRecords
+      Description: "search algolia records by city and suburb"
+      Role: !GetAtt TaxidiLambdaRole.Arn
+      CodeUri: searchAlgoliaRecords/
+      Handler: app.lambda_handler
+      Runtime: python3.8
+      Events:
+        ReviewApi:
+          Type: Api # More info about API Event Source: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#api
+          Properties:
+            Path: /algoliaSearch
+            Method: POST
+            RestApiId: !Ref TaxidiApiGateway
+
+  search:
+    Type: AWS::Serverless::Function # More info about Function Resource: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#awsserverlessfunction
+    Properties:
+      FunctionName: !Sub ${AWS::StackName}-search
+      Description: "Search Advertisements"
+      Role: !GetAtt TaxidiLambdaRole.Arn
+      CodeUri: search/
+      Handler: app.lambda_handler
+      Runtime: python3.8
+      Events:
+        ReviewApi:
+          Type: Api # More info about API Event Source: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#api
+          Properties:
+            Path: /search
+            Method: POST
+            RestApiId: !Ref TaxidiApiGateway
+
+  getAverageReview:
+    Type: AWS::Serverless::Function # More info about Function Resource: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#awsserverlessfunction
+    Properties:
+      FunctionName: !Sub ${AWS::StackName}-getAverageReview
+      Description: "get average reviews with advertisement id"
+      Role: !GetAtt TaxidiLambdaRole.Arn
+      CodeUri: getAverageReview/
+      Handler: app.lambda_handler
+      Runtime: python3.8
+      Events:
+        ReviewApi:
+          Type: Api # More info about API Event Source: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#api
+          Properties:
+            Path: /avgReviews/{id}
+            Method: GET
+            RestApiId: !Ref TaxidiApiGateway
+
+  GetSingleAdvertisementFunction:
+    Type: AWS::Serverless::Function # More info about Function Resource: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#awsserverlessfunction
+    Properties:
+      FunctionName: !Sub ${AWS::StackName}-getSingleAdvertisement
+      Description: "get advertisement by id"
+      Role: !GetAtt TaxidiLambdaRole.Arn
+      CodeUri: getSingleAdvertisement/
+      Handler: app.lambda_handler
+      Runtime: python3.8
+      Events:
+        ReviewApi:
+          Type: Api # More info about API Event Source: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#api
+          Properties:
+            Path: /advertisement/{id}
+            Method: GET
+            RestApiId: !Ref TaxidiApiGateway
+
+  #Image handling
+  UploadImageFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      FunctionName: !Sub ${AWS::StackName}-uploadImage
+      Description: "upload an image"
+      CodeUri: uploadImage
+      Handler: app.lambda_handler
+      Role: !GetAtt TaxidiLambdaRole.Arn
+      Runtime: python3.8
+      Events:
+        AdvertisementApi:
+          Type: Api # More info about API Event Source: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#api
+          Properties:
+            Path: /image
+            Method: POST
+            RestApiId: !Ref TaxidiApiGateway
+
+              #Image handling
+  EmailFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      FunctionName: !Sub ${AWS::StackName}-email
+      Description: "send an email using Python's SMTP library"
+      CodeUri: email
+      Handler: app.lambda_handler
+      Role: !GetAtt TaxidiLambdaRole.Arn
+      Runtime: python3.8
+      Events:
+        AdvertisementApi:
+          Type: Api # More info about API Event Source: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#api
+          Properties:
+            Path: /email
+            Method: POST
+            RestApiId: !Ref TaxidiApiGateway
+
+
+
+  # Test
+  HelloWorldFunction:
+    Type: AWS::Serverless::Function # More info about Function Resource: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#awsserverlessfunction
+    Properties:
+      FunctionName: !Sub ${AWS::StackName}-helloWorld
+      Description: "need authentication"
+      CodeUri: hello_world/
+      Handler: app.lambda_handler
+      Runtime: python3.8
+      Events:
+        HelloWorld:
+          Type: Api # More info about API Event Source: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#api
+          Properties:
+            Path: /hello
+            Method: get
+            RestApiId: !Ref TaxidiApiGateway
+            Auth:
+              Authorizer: TaxidiCognitoAuth

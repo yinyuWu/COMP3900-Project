@@ -1,0 +1,384 @@
+[{
+  "url": "https://www.booking.com/hotel/au/beach-park-motor-inn.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Beach Park Motel",
+  "rating": 8.5,
+  "reviews": 539,
+  "stars": 3,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Wollongong",
+  "location": {
+    "lat": "150.898907929659",
+    "lng": "-34.4128910305723"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/comfort-inn-towradgi-beach.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Comfort Inn Towradgi Beach",
+  "rating": 8.2,
+  "reviews": 172,
+  "stars": 3,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Wollongong",
+  "location": {
+    "lat": "150.904577309193",
+    "lng": "-34.3887607557117"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/charles-wollongong.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Nightcap at the Charles Hotel",
+  "rating": 8.6,
+  "reviews": 517,
+  "stars": 3,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Wollongong",
+  "location": {
+    "lat": "150.893302771713",
+    "lng": "-34.3931971312882"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/southview.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Southview Guest House",
+  "rating": 9.6,
+  "reviews": 169,
+  "stars": 4,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Wollongong",
+  "location": {
+    "lat": "150.923019647598",
+    "lng": "-34.3318572265208"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/medina-executive-wollongong.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Adina Apartment Hotel Wollongong",
+  "rating": 8.8,
+  "reviews": 637,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Wollongong",
+  "location": {
+    "lat": "150.899877548218",
+    "lng": "-34.4244254877822"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/best-western-city-sands.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Best Western City Sands",
+  "rating": 8.5,
+  "reviews": 853,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Wollongong",
+  "location": {
+    "lat": "150.89913925853",
+    "lng": "-34.4294697914872"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/quality-suites-pioneer-sands.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Quality Suites Pioneer Sands",
+  "rating": 8.7,
+  "reviews": 637,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Wollongong",
+  "location": {
+    "lat": "150.902742147446",
+    "lng": "-34.3880798096146"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/quest-wollongong-serviced-apartments.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Quest Wollongong",
+  "rating": 8.7,
+  "reviews": 309,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Wollongong",
+  "location": {
+    "lat": "150.897794142365",
+    "lng": "-34.4241920707471"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/the-beach-house-north-wollongong-north-wollongong.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "The Beach House North Wollongong",
+  "rating": 9.7,
+  "reviews": 53,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Wollongong",
+  "location": {
+    "lat": "150.900638",
+    "lng": "-34.413784"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/bel-mondo-apartments.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Bel Mondo Apartments",
+  "rating": 9.2,
+  "reviews": 170,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Wollongong",
+  "location": {
+    "lat": "150.894966423512",
+    "lng": "-34.4153823137535"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/astra-apartments-wollongong-cbd.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Astra Apartments Wollongong CBD",
+  "rating": 9,
+  "reviews": 9,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Wollongong",
+  "location": {
+    "lat": "150.900126",
+    "lng": "-34.42614"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/central-wollongong-large-2bed-apartment.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Central Wollongong ~ Large 2bed Apartment",
+  "rating": 8.8,
+  "reviews": 9,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Wollongong",
+  "location": {
+    "lat": "150.8986938",
+    "lng": "-34.420693552247"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/wollongong-serviced-apartments.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Wollongong Serviced Apartments",
+  "rating": 8.6,
+  "reviews": 160,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Wollongong",
+  "location": {
+    "lat": "150.897937640548",
+    "lng": "-34.4225703021683"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/apartment-at-crown.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Apartment at Crown",
+  "rating": null,
+  "reviews": null,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Wollongong",
+  "location": {
+    "lat": "150.9001924",
+    "lng": "-34.4268704"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/wollongong-station-holiday-house-47-wi-fi-47-4k-curve-tv-47-netflix-47-parking-4.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Wollongong station holiday house/Wi-Fi/4K Curve TV/ Netflix/Parking/Beach",
+  "rating": null,
+  "reviews": null,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Wollongong",
+  "location": {
+    "lat": "150.8887649",
+    "lng": "-34.4316357"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/2-bedroom-mantra-wollongong.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "2 bedroom Mantra Wollongong",
+  "rating": null,
+  "reviews": null,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Wollongong",
+  "location": {
+    "lat": "150.8868312",
+    "lng": "-34.4265908"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/chifley-wollongong.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Sage Hotel Wollongong",
+  "rating": 8.1,
+  "reviews": 2863,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Wollongong",
+  "location": {
+    "lat": "150.901370197535",
+    "lng": "-34.4291799735077"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/the-belmore-all-suite-wollongong.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "The Belmore All-Suite Hotel",
+  "rating": 8.9,
+  "reviews": 988,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Wollongong",
+  "location": {
+    "lat": "150.899158716202",
+    "lng": "-34.4223059044449"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/coniston.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Coniston Hotel Wollongong",
+  "rating": 8.6,
+  "reviews": 116,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Wollongong",
+  "location": {
+    "lat": "150.88436",
+    "lng": "-34.43792"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/test-novotel-northbeach.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Novotel Wollongong Northbeach",
+  "rating": 8.6,
+  "reviews": 2682,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Wollongong",
+  "location": {
+    "lat": "150.900564193726",
+    "lng": "-34.4146634532695"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/corrimal-beach-tourist-park.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Corrimal Beach Tourist Park",
+  "rating": 8.9,
+  "reviews": 585,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Wollongong",
+  "location": {
+    "lat": "150.914213",
+    "lng": "-34.381131"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/wollongong-surf-leisure-resort.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Wollongong Surf Leisure Resort",
+  "rating": 8.6,
+  "reviews": 940,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Wollongong",
+  "location": {
+    "lat": "150.904448032379",
+    "lng": "-34.3903994647768"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/boat-harbour-motel.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Boat Harbour Motel",
+  "rating": 8,
+  "reviews": 753,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Wollongong",
+  "location": {
+    "lat": "150.90240418911",
+    "lng": "-34.4199340314079"
+  }
+},
+{
+  "url": "https://www.booking.com/hotel/au/thirroul-beach-motel.html?selected_currency=AUD&changed_currency=1&top_currency=1&lang=en-us&group_adults=2&no_rooms=1",
+  "name": "Thirroul Beach Motel",
+  "rating": 8.5,
+  "reviews": 391,
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "roomType": "",
+  "persons": null,
+  "address": "Wollongong",
+  "location": {
+    "lat": "150.9259475",
+    "lng": "-34.3139992"
+  }
+}]

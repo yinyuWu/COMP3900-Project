@@ -1,0 +1,29 @@
+Week 1
+Group of 4 was formed in lab session. I brainstormed ideas with my teammates and research about architectures to be used
+
+Week 2
+I worked on prototyping.
+
+Week 3
+I finished data flow diagram. Participated in group meetings. Researched about Amazon services that we are going to use in our project
+
+Week 4
+I coded an API to delete an advertisement from dynamoDB. I also refactored Frontend components and renamed them to make them more clear.
+
+Week 5
+I built a search by date API using Zahra's API. I made a search result page on frontend and integrated backend code with it.
+
+Week 6
+This week I mainly work on mobile view of frontend. I made layout of majority of pages mobile responsive.
+
+Week 7
+This week I revamped Advertisement page to make it look better on desktop and mobile view. I also adjusted search page to be responsive. 
+
+Week8: 
+This week I fixed 360 view duplicate bugs. I also tested our website and pointed out bugs for our team to fix.
+
+Week9:
+Recorded demo video. Edited the final report.
+
+Week10:
+Proofread the final report.

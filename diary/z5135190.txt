@@ -1,0 +1,59 @@
+Week 1
+- We form a group of 4 in lab session, and we decided to work on project 3 -- An Accommodation Booking Web Portal. 
+- Then I wrote epic stories(ES1--ES5) section of proposal and user stories (US1 and US2) of Epic Story 2.
+- Besides, I created a Jira account and wrote some background of proposal. After discussion, we decided the framework we may use in our project (Vue.js, Vuetify in frontend, and Django, Firebase in backend). 
+- In next week, we plan to determine what framework/libraries we will use in our project and work on project proposal.
+
+Week 2
+- In this week, I wrote 'Project Management Schedule' section and reference in proposal. 
+- Then, I move some user stories to Jira and created a Github repository. 
+- In terms of backend of our project, we decided to use AWS instead of firebase. 
+- In next week, we plan to complete proposal and I will try to start working on account system of our project.
+
+Week 3
+- In this week, I redesigned Gantt chart of schedule in proposal. 
+- And then I implemented home page design in Fronted including search bar, navigation bar, footer since Zahra 
+completed account system...
+- While I was trying to implement navigation bar with Vuetify, I encountered a margin problem and King helped me to solve that. 
+- Besides, I created a property list page which shows properties that users advertised and I plan to add more details into property list page by integrating with backend services in next week. 
+-  Also, I moved all user stories to Jira board.
+
+Week 4
+- In this week, I wrote a lambda function in backend which return all advertisements created by the user. 
+- Then I redesign advertisements list page and used axios to call backend API, so it would show all advertisements made by current user. 
+- The main obstacle I encountered in this week was that I coulnd't call call backend API correctly by axios. 
+- Then I searched it through Google and found it was because nodejs functions are non-blocking and I had to write call-back functions for it. - In next week we will start next sprint and I will work on accommodation detail page
+
+Week 5
+- In this weeek, I implememted advertisement detail page so users can access the detail of advertisement
+- Then I created bookings page, so users are able to find all bookings they made in this page.
+- Besides, I fixed some problem in advertisement creation page, so users can upload multiple page right now.
+- The problems I encountered in this week is that we want to show image gallery with thumbnails in advertisement detail page, but vuetify doesn't support that, so we have to search other tools to implement this function.
+- In next week, I will try to fix some bugs appeared in this sprint and if we finished this sprint earlier, we may start next sprint in next week.
+
+Week 6
+- In this week, I fixed some bugs so address in detail page works correctly even if apt number of address is null
+- Also when users search properties, results will show photos as well.
+- I created a review page and completed 'get single booking' api in backend.
+- In next week, I will implement review system of our website.
+
+Week 7
+- In this week, I fixed some bugs like overflow of text description in advertisement detail page.
+- Also, I added reviews api into advertisment page, so it would show reviews about current advertisement.
+- In next week, I will start project report and fix some bugs if we find them.
+
+Week 8
+- Because we almost finished our project, we start work on final report of our project 
+- In terms of code work in this week, I make recommendation for tonight in homepage mobile responsive
+- Also, I redesign review part in advertisement detail page
+- Then, I inserted some screenshots into project report
+- In next week, I will prepare for week 10 demo and add more into description part in report
+
+Week 9
+- In this week, I attended group meeting in zoom
+- And I recorded my demo video as backup
+- In next week, I will try to implement 'implementation challenges' part in report
+
+Week 10
+- In this week, I wrote some in implementation challenges part in report.
+- Also, I added some in 'reference of third party libraries used by team' part in report.
